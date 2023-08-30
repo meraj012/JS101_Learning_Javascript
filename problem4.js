@@ -1,0 +1,16 @@
+let name= "meraj";
+let school= "masai";
+let grade= "a";
+let section="b";
+let rollno= 112;
+let math= 90;
+let sci= 95;
+let eng= 96;
+console.log("=================== name=",name,"====================");
+console.log("@@@@@@@@@@@@@@@@@@ school=",school,"@@@@@@@@@@@@@@@@@@");
+console.log("################### grade=",grade,"##################");
+console.log("================== section=",section,"================");
+console.log("@@@@@@@@@@@@@@@@@@ rollno=", rollno,"@@@@@@@@@@@@@@@@@");
+console.log("%%%%%%%%%%%%%%%%%%%%%%%%    math=", math, "%%%%%%%%%%%%%%%%%%%%%");
+console.log("&&&&&&&&&&&&&&&& science=", sci, "&&&&&&&&&&&&&&&&&&");
+console.log("=================== english=", eng, "======================");
